@@ -12,4 +12,4 @@ Links:
 * https://docs.google.com/document/d/1zxxHILcthJRlMnyY_CbuE_uvF22eDP-fAGgDK_ZaRNw/edit
 * https://drive.google.com/drive/u/1/folders/1eiHUHXZ384LHUNHYgCfO9uZI3TrRPGr2 (Los drives guardados en zip por si pasa algo con los originales)
 
-Dejenme una ⭐!
+Dejame una ⭐!
