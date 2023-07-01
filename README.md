@@ -22,6 +22,6 @@ Links:
 * https://drive.google.com/drive/folders/1eiHUHXZ384LHUNHYgCfO9uZI3TrRPGr2 (Los drives guardados en zip por si pasa algo con los originales)
 
 Clases:
-* https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ 
-
-##### Dejame una ⭐!
+* https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ
+  
+### Viva la Libertad Carajo!
