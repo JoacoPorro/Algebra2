@@ -2,13 +2,13 @@
 ###### Pasame tus drives a jporro@fi.uba.ar asi los subo a la repo!
 ##### Dejame una ⭐!
 
-###### Mejores Drives: 
-* https://drive.google.com/drive/folders/1vtwsy6NnyqGG42dT7bKgDJwDi4GaF4KR (Finales Resueltos)
-* https://drive.google.com/drive/folders/1PJNe-E5IZKzaOjGcfFNRpgiy9hJyj7gH (Ejercicios Tipo Parcial Resueltos)
-* https://drive.google.com/drive/folders/1_JtzLT9Okpmwx7NSPXs4LoE0-G_sZV3i (Practicas Y Ejercicios Resueltos)
-* https://drive.google.com/drive/folders/11yQnHmBasuuJuR20GbI18rDB4PPHzauz
+Mejores Drives: 
+###### * https://drive.google.com/drive/folders/1vtwsy6NnyqGG42dT7bKgDJwDi4GaF4KR (Finales Resueltos)
+###### * https://drive.google.com/drive/folders/1PJNe-E5IZKzaOjGcfFNRpgiy9hJyj7gH (Ejercicios Tipo Parcial Resueltos)
+###### * https://drive.google.com/drive/folders/1_JtzLT9Okpmwx7NSPXs4LoE0-G_sZV3i (Practicas Y Ejercicios Resueltos)
+###### * https://drive.google.com/drive/folders/11yQnHmBasuuJuR20GbI18rDB4PPHzauz
 
-###### Otros Drives:
+Otros Drives:
 * https://drive.google.com/drive/folders/1CuLYPZqwdjaorJDAFZ8KfDSFAObWdSH3
 * https://drive.google.com/drive/folders/1or2Gh6g06ZgpywV2GvmQgqCr6De7PM1h 
 * https://drive.google.com/drive/folders/1ov7XykhfVkdx8KHAZaciMLgHzfuPWAx1 
