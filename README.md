@@ -1,4 +1,4 @@
-# ÁlgebraII
+# Álgebra II
 Material de Álgebra 2 FIUBA
 
 Dejame una ⭐!
