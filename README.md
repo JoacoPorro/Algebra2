@@ -1,7 +1,7 @@
 # Algebra II
 Material de Álgebra 2 FIUBA
 
-#### Dejame una ⭐!
+##### Dejame una ⭐!
 
 Mejores Drives: 
 * https://drive.google.com/drive/folders/1vtwsy6NnyqGG42dT7bKgDJwDi4GaF4KR (Finales Resueltos)
