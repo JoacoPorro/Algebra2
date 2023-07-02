@@ -1,6 +1,6 @@
 # Algebra II
 ###### Se agradece la generosidad! Pasen sus drives a jporro@fi.uba.ar
-##### Dejame una ⭐!
+##### Deja una ⭐!
 
 
 
