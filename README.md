@@ -1,5 +1,5 @@
 # Algebra II
-###### Pasen drives nuevos a jporro@fi.uba.ar. Se agradece su generosidad
+###### Pasen sus drives nuevos a jporro@fi.uba.ar. Se agradece su generosidad
 ##### Dejame una ⭐!
 
 
