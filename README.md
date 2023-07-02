@@ -16,12 +16,15 @@ Otros Drives:
 * https://drive.google.com/drive/folders/1ov7XykhfVkdx8KHAZaciMLgHzfuPWAx1 
 * https://drive.google.com/drive/folders/1iJXEoHU5OadPM-NMKJnZTYLii8CjEpF6 
 * https://drive.google.com/drive/folders/0B3MqF38RMWWxdlFPa1FpQUdmSlE?resourcekey=0-ZznQqtGjoeFdH5RyqIkGFQ
+  
+Clases:
+* https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ
+
+Repos:
+* https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81%20-%20Matem%C3%A1tica/8102%20-%20Algebra%20II
 
 Links:
 * https://docs.google.com/document/d/1zxxHILcthJRlMnyY_CbuE_uvF22eDP-fAGgDK_ZaRNw/edit
 * https://drive.google.com/drive/folders/1eiHUHXZ384LHUNHYgCfO9uZI3TrRPGr2 (Los drives guardados en zip por si pasa algo con los originales)
-
-Clases:
-* https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ
   
 ### Viva la Libertad Carajo!
