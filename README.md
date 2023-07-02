@@ -1,5 +1,5 @@
 # Algebra II
-###### Acepto drives y resueltos al jporro@fi.uba.ar
+###### Manden drives y/o resueltos al jporro@fi.uba.ar
 ##### Dejame una ⭐!
 
 
