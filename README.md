@@ -1,5 +1,5 @@
 # Algebra II
-###### Manden drives a jporro@fi.uba.ar. Se agradece la generosidad
+###### Manden drives a jporro@fi.uba.ar. Se agradece toda su generosidad
 ##### Dejame una ⭐!
 
 
