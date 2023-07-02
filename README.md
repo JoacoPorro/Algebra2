@@ -1,5 +1,5 @@
 # Algebra II
-###### Subi tus drives mandandolo a jporro@fi.uba.ar
+###### Subi tus drives! Mandame un mail jporro@fi.uba.ar
 ##### Dejame una ⭐!
 
 
