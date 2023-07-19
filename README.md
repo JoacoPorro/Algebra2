@@ -1,8 +1,5 @@
 # Algebra II - Material FIUBA
-###### Se agradece la generosidad! Pasen todos sus drives a jporro@fi.uba.ar
-##### Deja una ⭐!
-
-
+###### Drives --> jporro@fi.uba.ar
 
 Mejores Drives: 
 * https://drive.google.com/drive/folders/1vtwsy6NnyqGG42dT7bKgDJwDi4GaF4KR (Finales Resueltos)
@@ -26,5 +23,6 @@ Repos:
 Links:
 * https://docs.google.com/document/d/1zxxHILcthJRlMnyY_CbuE_uvF22eDP-fAGgDK_ZaRNw/edit
 * https://drive.google.com/drive/folders/1eiHUHXZ384LHUNHYgCfO9uZI3TrRPGr2 (Los drives guardados en zip por si pasa algo con los originales)
-  
+
+### Deja ⭐ si te sirvio
 ### Viva la Libertad Carajo!
