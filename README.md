@@ -1,5 +1,5 @@
 # Material Álgebra II FIUBA
-###### Drives y Cosas Utiles --> jporro@fi.uba.ar
+###### Drives o Material Para Subir Aca --> jporro@fi.uba.ar
 
 ### Mejores Drives: 
 * https://drive.google.com/drive/folders/1vtwsy6NnyqGG42dT7bKgDJwDi4GaF4KR (Finales Resueltos)
