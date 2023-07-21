@@ -29,7 +29,7 @@
 * [Troparevsky](https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ)
 * (Estoy buscando clases de otras catedras tambien, si tienen mi mail esta arriba. Tambien busco el campus de Grynberg de la cuarentena)
   
-### Videos
+### Videos:
 * [Videos Palau](https://www.youtube.com/playlist?list=PLCCetHbN4nu8tpFvFeyHlK5OI5FfvApG7)
 * [Videos Muszkats](https://www.youtube.com/playlist?list=PLWpiopMPm10xL6IrCapriQnHnkQbW2QH6)
 
