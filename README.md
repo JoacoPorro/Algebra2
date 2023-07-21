@@ -23,7 +23,7 @@
 
 ### Links:
 * [Documento con links a resueltos](https://docs.google.com/document/d/1zxxHILcthJRlMnyY_CbuE_uvF22eDP-fAGgDK_ZaRNw/edit)
-* https://drive.google.com/drive/folders/1eiHUHXZ384LHUNHYgCfO9uZI3TrRPGr2 (Los drives guardados en zip por si pasa algo con los originales)
+* [Los drives en zip por si pasa algo con los originales](https://drive.google.com/drive/folders/1eiHUHXZ384LHUNHYgCfO9uZI3TrRPGr2) 
 
 ### Deja ⭐ Arriba
 ### Viva la Libertad Carajo!
