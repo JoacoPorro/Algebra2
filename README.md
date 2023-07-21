@@ -15,6 +15,7 @@
 * https://drive.google.com/drive/folders/0B3MqF38RMWWxdlFPa1FpQUdmSlE?resourcekey=0-ZznQqtGjoeFdH5RyqIkGFQ
   
 ### Clases:
+* [Boggi](https://www.youtube.com/@silvinaboggi/videos)
 * [Troparevsky](https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ)
 * (Estoy buscando clases de otras catedras tambien, si tienen mi mail esta arriba)
 
