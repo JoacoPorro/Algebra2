@@ -30,7 +30,7 @@
 ### Videos:
 * [Videos Palau](https://www.youtube.com/playlist?list=PLCCetHbN4nu8tpFvFeyHlK5OI5FfvApG7)
 * [Videos Muszkats](https://www.youtube.com/playlist?list=PLWpiopMPm10xL6IrCapriQnHnkQbW2QH6)
-* [Parciales Resueltos](https://www.youtube.com/playlist?list=PLoXsu_ENPVxAmg-z04FATWCfGWop1jR88)
+* [Finales Resueltos](https://www.youtube.com/playlist?list=PLoXsu_ENPVxAzfWMjjBGn83Jn1ZTpmL5W)
 
 
 ### Recomendacion:
