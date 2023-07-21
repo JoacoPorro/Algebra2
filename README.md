@@ -21,8 +21,6 @@
 * [SK Fiuba Algebra](https://sites.google.com/view/skfiuba/materias/%C3%A1lgebra-ii)
 * [Los drives en zip por si pasa algo con los originales](https://drive.google.com/drive/folders/1eiHUHXZ384LHUNHYgCfO9uZI3TrRPGr2)
 
-
-
 ### Clases:
 * [Boggi](https://www.youtube.com/@silvinaboggi/videos)
 * [Vargas](https://www.youtube.com/@cursovargasfiuba7950) 
@@ -30,6 +28,8 @@
 * (Estoy buscando clases de otras catedras tambien, si tienen mi mail esta arriba. Tambien busco el campus de Grynberg de la cuarentena)
   
 ### Videos:
+* [Guia 1 Resueltos](https://www.youtube.com/playlist?list=PLoXsu_ENPVxAvXWdim6NCUdzCojFc_857)
+* [Guia 2 Resueltos](https://www.youtube.com/playlist?list=PLoXsu_ENPVxCEQ0THXzsN4udBhtdGXL3y)
 * [Videos Palau](https://www.youtube.com/playlist?list=PLCCetHbN4nu8tpFvFeyHlK5OI5FfvApG7)
 * [Videos Muszkats](https://www.youtube.com/playlist?list=PLWpiopMPm10xL6IrCapriQnHnkQbW2QH6)
 
