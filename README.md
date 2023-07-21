@@ -15,10 +15,11 @@
 * https://drive.google.com/drive/folders/0B3MqF38RMWWxdlFPa1FpQUdmSlE?resourcekey=0-ZznQqtGjoeFdH5RyqIkGFQ
   
 ### Clases:
-* https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ
+* [Troparevsky](https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ)
+* (Estoy Buscando clases de otras catedras tambien, si tienen mi mail esta arriba)
 
 ### Repos:
-* https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81%20-%20Matem%C3%A1tica/8102%20-%20Algebra%20II
+* [Repo con mucho material](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81%20-%20Matem%C3%A1tica/8102%20-%20Algebra%20II)
 
 ### Links:
 * [Documento con links a resueltos](https://docs.google.com/document/d/1zxxHILcthJRlMnyY_CbuE_uvF22eDP-fAGgDK_ZaRNw/edit)
