@@ -18,7 +18,7 @@
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:61:08) (Mucho material de todo)
 * [Repo con mucho material](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81%20-%20Matem%C3%A1tica/8102%20-%20Algebra%20II)
 * [Documento con links a resueltos](https://docs.google.com/document/d/1zxxHILcthJRlMnyY_CbuE_uvF22eDP-fAGgDK_ZaRNw/edit)
-* [SK fiuba algebra](https://sites.google.com/view/skfiuba/materias/%C3%A1lgebra-ii)
+* [SK Fiuba Algebra](https://sites.google.com/view/skfiuba/materias/%C3%A1lgebra-ii)
 * [Los drives en zip por si pasa algo con los originales](https://drive.google.com/drive/folders/1eiHUHXZ384LHUNHYgCfO9uZI3TrRPGr2)
 
 
