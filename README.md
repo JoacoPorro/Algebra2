@@ -16,7 +16,7 @@
   
 ### Clases:
 * [Troparevsky](https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ)
-* (Estoy Buscando clases de otras catedras tambien, si tienen mi mail esta arriba)
+* (Estoy buscando clases de otras catedras tambien, si tienen mi mail esta arriba)
 
 ### Repos:
 * [Repo con mucho material](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81%20-%20Matem%C3%A1tica/8102%20-%20Algebra%20II)
