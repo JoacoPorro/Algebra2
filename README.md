@@ -27,7 +27,7 @@
 * [Vargas](https://www.youtube.com/@cursovargasfiuba7950)
 * [Troparevsky](https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ)
 * [Videos Muszkats](https://www.youtube.com/playlist?list=PLWpiopMPm10xL6IrCapriQnHnkQbW2QH6)
-* (Estoy buscando clases de otras catedras tambien, si tienen mi mail esta arriba. Tambien busco el campus de Grinberg de la cuarentena)
+* (Estoy buscando clases de otras catedras tambien, si tienen mi mail esta arriba. Tambien busco el campus de Grynberg de la cuarentena)
 
 
 ### Recomendacion:
