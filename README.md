@@ -6,7 +6,7 @@
 * [Otros Finales Resueltos](https://drive.google.com/drive/folders/1yUYcDA8DzNmyERAhxWl4veRenGRFWjIx)
 * https://drive.google.com/drive/folders/1PJNe-E5IZKzaOjGcfFNRpgiy9hJyj7gH (Ejercicios Tipo Parcial Resueltos)
 * https://drive.google.com/drive/folders/1_JtzLT9Okpmwx7NSPXs4LoE0-G_sZV3i (Practicas Y Ejercicios Resueltos)
-* https://drive.google.com/drive/folders/1W9FXwJHV0fbZl2ybFmuSbPmAyRjsA6kb (Ejercicios Explicados en Colabs)
+* [Ejercicios Guia Explicados en Colabs](https://drive.google.com/drive/folders/1W9FXwJHV0fbZl2ybFmuSbPmAyRjsA6kb)
 * https://drive.google.com/drive/folders/11yQnHmBasuuJuR20GbI18rDB4PPHzauz
 
 ### Otros Drives:
