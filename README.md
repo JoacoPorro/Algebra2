@@ -7,9 +7,9 @@
 * [Ejercicios Tipo Parcial Resueltos](https://drive.google.com/drive/folders/1PJNe-E5IZKzaOjGcfFNRpgiy9hJyj7gH)
 * [Ejercicios Guia Explicados en Colabs](https://drive.google.com/drive/folders/1W9FXwJHV0fbZl2ybFmuSbPmAyRjsA6kb)
 * [General](https://drive.google.com/drive/folders/1_JtzLT9Okpmwx7NSPXs4LoE0-G_sZV3i)
-* https://drive.google.com/drive/folders/11yQnHmBasuuJuR20GbI18rDB4PPHzauz
 
 ### Otros Drives:
+* https://drive.google.com/drive/folders/11yQnHmBasuuJuR20GbI18rDB4PPHzauz
 * https://drive.google.com/drive/folders/1CuLYPZqwdjaorJDAFZ8KfDSFAObWdSH3
 * https://drive.google.com/drive/folders/1or2Gh6g06ZgpywV2GvmQgqCr6De7PM1h 
 * https://drive.google.com/drive/folders/1ov7XykhfVkdx8KHAZaciMLgHzfuPWAx1 
