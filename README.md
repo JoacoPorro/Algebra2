@@ -35,7 +35,7 @@
 
 
 ### Recomendacion:
-* Intenten estudiar con resueltos mas que con las clases, es muy dificil sacar de las clases como resolver algunos ejercicios, y en general en algun drive estan resueltos. Tambien algunos tipos de ejercicios no los toman nunca, vean examenes de cuatris pasados (mientras mas recientes mejor) para saber que formato tienen los ejercicios en general
+* Intenten estudiar con resueltos mas que con las clases, es muy dificil sacar de las clases como resolver algunos ejercicios, y en general en algun drive estan resueltos. Tambien algunos tipos de ejercicios no los toman nunca, vean examenes de cuatris pasados (lo mas reciente es mejor) para saber que formato tienen los ejercicios en general
 * Los libros tambien son mas utiles que las clases
 
 
