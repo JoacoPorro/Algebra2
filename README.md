@@ -1,5 +1,5 @@
 # Material Álgebra II FIUBA
-###### Drives o material --> repos.libertarias@gmail.com
+###### Drives --> repos.libertarias@gmail.com
 
 ### Mejores Drives: 
 * [Finales Resueltos](https://drive.google.com/drive/folders/1vtwsy6NnyqGG42dT7bKgDJwDi4GaF4KR)
