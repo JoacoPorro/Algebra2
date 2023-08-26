@@ -9,8 +9,8 @@
 
 ### Otros Drives:
 * [Ejercicios Guia Explicados en Colabs](https://drive.google.com/drive/folders/1W9FXwJHV0fbZl2ybFmuSbPmAyRjsA6kb)
-* [Otros Finales Resueltos](https://drive.google.com/drive/folders/1yUYcDA8DzNmyERAhxWl4veRenGRFWjIx)
 * [Otro General](https://drive.google.com/drive/folders/1_JtzLT9Okpmwx7NSPXs4LoE0-G_sZV3i)
+* [Otros Finales Resueltos](https://drive.google.com/drive/folders/1yUYcDA8DzNmyERAhxWl4veRenGRFWjIx)
 * https://drive.google.com/drive/folders/1HxWdsb029ipLkGjP6I5YuJXK4F3nblms
 * https://drive.google.com/drive/folders/11yQnHmBasuuJuR20GbI18rDB4PPHzauz
 * https://drive.google.com/drive/folders/1CuLYPZqwdjaorJDAFZ8KfDSFAObWdSH3
