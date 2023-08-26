@@ -23,13 +23,12 @@
 * [Link al Discord con resueltos](https://discord.gg/AhEkUES)
 * [Repo con mucho material](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81%20-%20Matem%C3%A1tica/8102%20-%20Algebra%20II)
 * [Documento con links a resueltos](https://docs.google.com/document/d/1zxxHILcthJRlMnyY_CbuE_uvF22eDP-fAGgDK_ZaRNw/edit)
-* [Los drives en zip por si pasa algo con los originales](https://drive.google.com/drive/folders/1eiHUHXZ384LHUNHYgCfO9uZI3TrRPGr2)
+<!-- * [Los drives en zip por si pasa algo con los originales](https://drive.google.com/drive/folders/1eiHUHXZ384LHUNHYgCfO9uZI3TrRPGr2) -->
 
 ### Clases:
 * [Boggi](https://www.youtube.com/@silvinaboggi/videos)
 * [Vargas](https://www.youtube.com/@cursovargasfiuba7950) 
 * [Troparevsky](https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ)
-* (Estoy buscando clases de otras catedras tambien, si tienen mi mail esta arriba. Tambien busco el campus de Grynberg de la cuarentena)
   
 ### Videos:
 * [La Pizarra Online](https://www.youtube.com/playlist?list=PLovUfzQicsXt6q2gNJTAwCovq_7nr370F)
