@@ -2,12 +2,13 @@
 ###### Drives --> repos.libertarias@gmail.com
 
 ### Mejores Drives: 
-* [Finales Resueltos](https://drive.google.com/drive/folders/1vtwsy6NnyqGG42dT7bKgDJwDi4GaF4KR)
+* [General](https://drive.google.com/drive/folders/1FA6c9nN5YRvq_c1RXkpFe6LufUDW9ZxM) (el mejor)
+* [Otro General](https://drive.google.com/drive/folders/1_JtzLT9Okpmwx7NSPXs4LoE0-G_sZV3i)
 * [Ejercicios Tipo Parcial Resueltos](https://drive.google.com/drive/folders/1PJNe-E5IZKzaOjGcfFNRpgiy9hJyj7gH)
-* [Ejercicios Guia Explicados en Colabs](https://drive.google.com/drive/folders/1W9FXwJHV0fbZl2ybFmuSbPmAyRjsA6kb)
-* [General](https://drive.google.com/drive/folders/1_JtzLT9Okpmwx7NSPXs4LoE0-G_sZV3i)
+* [Finales Resueltos](https://drive.google.com/drive/folders/1vtwsy6NnyqGG42dT7bKgDJwDi4GaF4KR)
 
 ### Otros Drives:
+* [Ejercicios Guia Explicados en Colabs](https://drive.google.com/drive/folders/1W9FXwJHV0fbZl2ybFmuSbPmAyRjsA6kb)
 * [Otros Finales Resueltos](https://drive.google.com/drive/folders/1yUYcDA8DzNmyERAhxWl4veRenGRFWjIx)
 * https://drive.google.com/drive/folders/11yQnHmBasuuJuR20GbI18rDB4PPHzauz
 * https://drive.google.com/drive/folders/1CuLYPZqwdjaorJDAFZ8KfDSFAObWdSH3
