@@ -1,7 +1,7 @@
 # Material Álgebra II FIUBA
 ###### Drives --> repos.libertarias@gmail.com
 
-### Mejores Drives: 
+### Drives: 
 * [General](https://drive.google.com/drive/folders/1FA6c9nN5YRvq_c1RXkpFe6LufUDW9ZxM)
 * [Otro General](https://drive.google.com/drive/folders/1_JtzLT9Okpmwx7NSPXs4LoE0-G_sZV3i)
 * [Sugerencias Por Semana](https://drive.google.com/drive/folders/1H9soGr6S1Cj1GrL8jmEGYFKD3uLfykS8)
