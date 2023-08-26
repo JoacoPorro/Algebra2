@@ -3,7 +3,6 @@
 
 ### Drives: 
 * [General](https://drive.google.com/drive/folders/1FA6c9nN5YRvq_c1RXkpFe6LufUDW9ZxM)
-* [Otro General](https://drive.google.com/drive/folders/1_JtzLT9Okpmwx7NSPXs4LoE0-G_sZV3i)
 * [Sugerencias Por Semana](https://drive.google.com/drive/folders/1H9soGr6S1Cj1GrL8jmEGYFKD3uLfykS8)
 * [Ejercicios Tipo Parcial Resueltos](https://drive.google.com/drive/folders/1PJNe-E5IZKzaOjGcfFNRpgiy9hJyj7gH)
 * [Finales Resueltos](https://drive.google.com/drive/folders/1vtwsy6NnyqGG42dT7bKgDJwDi4GaF4KR)
@@ -11,6 +10,7 @@
 ### Otros Drives:
 * [Ejercicios Guia Explicados en Colabs](https://drive.google.com/drive/folders/1W9FXwJHV0fbZl2ybFmuSbPmAyRjsA6kb)
 * [Otros Finales Resueltos](https://drive.google.com/drive/folders/1yUYcDA8DzNmyERAhxWl4veRenGRFWjIx)
+* [Otro General](https://drive.google.com/drive/folders/1_JtzLT9Okpmwx7NSPXs4LoE0-G_sZV3i)
 * https://drive.google.com/drive/folders/1HxWdsb029ipLkGjP6I5YuJXK4F3nblms
 * https://drive.google.com/drive/folders/11yQnHmBasuuJuR20GbI18rDB4PPHzauz
 * https://drive.google.com/drive/folders/1CuLYPZqwdjaorJDAFZ8KfDSFAObWdSH3
