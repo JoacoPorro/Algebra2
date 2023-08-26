@@ -31,7 +31,7 @@
 * [Troparevsky](https://drive.google.com/drive/u/2/folders/1It7sndRPrpFDCtVSBXhQkLsDsEcAbkIQ)
   
 ### Videos:
-* [Guia Resuelta](https://www.youtube.com/playlist?list=PLovUfzQicsXt-Agv0Rfwg-Ek5J9FZnuXJ)
+* [Algunos Ejercicios de la Guia](https://www.youtube.com/playlist?list=PLovUfzQicsXt-Agv0Rfwg-Ek5J9FZnuXJ)
 * [La Pizarra Online](https://www.youtube.com/playlist?list=PLovUfzQicsXt6q2gNJTAwCovq_7nr370F)
 * [Videos Palau](https://www.youtube.com/playlist?list=PLCCetHbN4nu8tpFvFeyHlK5OI5FfvApG7)
 * [Videos Muszkats](https://www.youtube.com/playlist?list=PLWpiopMPm10xL6IrCapriQnHnkQbW2QH6)
