@@ -17,7 +17,6 @@
 * https://drive.google.com/drive/folders/1or2Gh6g06ZgpywV2GvmQgqCr6De7PM1h 
 * https://drive.google.com/drive/folders/1ov7XykhfVkdx8KHAZaciMLgHzfuPWAx1 
 * https://drive.google.com/drive/folders/1iJXEoHU5OadPM-NMKJnZTYLii8CjEpF6 
-* https://drive.google.com/drive/folders/0B3MqF38RMWWxdlFPa1FpQUdmSlE?resourcekey=0-ZznQqtGjoeFdH5RyqIkGFQ
 
 ### Links:
 * [Drive Libros](https://drive.google.com/drive/folders/1hbEkrmOfAS9Hz8FBRrqj1a8Gnfq7sXWb)
