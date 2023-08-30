@@ -3,7 +3,6 @@
 
 ### Drives: 
 * [General](https://drive.google.com/drive/folders/1FA6c9nN5YRvq_c1RXkpFe6LufUDW9ZxM)
-* [Ejercicios Tipo Parcial](https://drive.google.com/drive/folders/1PJNe-E5IZKzaOjGcfFNRpgiy9hJyj7gH)
 * [Finales Mas Viejos Resueltos](https://drive.google.com/drive/folders/1vtwsy6NnyqGG42dT7bKgDJwDi4GaF4KR)
 * [Finales Mas Recientes Resueltos](https://drive.google.com/drive/folders/1HxWdsb029ipLkGjP6I5YuJXK4F3nblms)
 
