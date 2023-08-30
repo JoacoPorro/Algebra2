@@ -43,6 +43,6 @@
 * Algunos tipos de ejercicios no los toman nunca, vean examenes de cuatris pasados para saber que formato tienen los ejercicios en general (Cada tanto cambian el formato, fijense en los mas recientes)
 * Los libros tambien son mas utiles que las clases
 
-
+##### [Ver mas Repos Libertarias](https://github.com/jporro?tab=repositories&q=&type=&language=&sort=stargazers)
 ### Deja ⭐ Arriba
 ### Viva la Libertad Carajo!
