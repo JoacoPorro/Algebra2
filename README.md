@@ -21,8 +21,8 @@
 * [Apunte con Resueltos](https://drive.google.com/file/d/1kAn29IPEr-KccZlQ24ZHkJ0ssY_r7vJP/view?usp=drive_link)
 * [Parciales Resueltos](https://drive.google.com/file/d/18zPgnnGM4Tdjq-TJtN5okgku2Lcbispb/view?usp=drive_link)
 * [Repo con mucho material](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81%20-%20Matem%C3%A1tica/8102%20-%20Algebra%20II)
-* [Link al Discord con resueltos](https://discord.gg/AhEkUES)
 * [Documento con links a resueltos](https://docs.google.com/document/d/1zxxHILcthJRlMnyY_CbuE_uvF22eDP-fAGgDK_ZaRNw/edit)
+* [Link al Discord con resueltos](https://discord.gg/AhEkUES)
 <!-- * [Los drives en zip por si pasa algo con los originales](https://drive.google.com/drive/folders/1eiHUHXZ384LHUNHYgCfO9uZI3TrRPGr2) -->
 
 ### Clases:
