@@ -32,8 +32,8 @@
   
 ### Videos:
 * [Algunos Ejercicios de la Guia](https://www.youtube.com/playlist?list=PLovUfzQicsXt-Agv0Rfwg-Ek5J9FZnuXJ)
-* [La Pizarra Online](https://www.youtube.com/playlist?list=PLovUfzQicsXt6q2gNJTAwCovq_7nr370F)
 * [Videos Palau](https://www.youtube.com/playlist?list=PLCCetHbN4nu8tpFvFeyHlK5OI5FfvApG7)
+* [La Pizarra Online](https://www.youtube.com/playlist?list=PLovUfzQicsXt6q2gNJTAwCovq_7nr370F)
 * [Videos Muszkats](https://www.youtube.com/playlist?list=PLWpiopMPm10xL6IrCapriQnHnkQbW2QH6)
 * [Finales Resueltos](https://www.youtube.com/playlist?list=PLoXsu_ENPVxAzfWMjjBGn83Jn1ZTpmL5W)
 
