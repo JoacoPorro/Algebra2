@@ -18,6 +18,7 @@
 ### Links:
 * [Drive Libros](https://drive.google.com/drive/folders/1hbEkrmOfAS9Hz8FBRrqj1a8Gnfq7sXWb)
 * [Parciales Resueltos](https://drive.google.com/file/d/18zPgnnGM4Tdjq-TJtN5okgku2Lcbispb/view?usp=drive_link)
+* [Apunte con Resueltos](https://drive.google.com/file/d/1kAn29IPEr-KccZlQ24ZHkJ0ssY_r7vJP/view?usp=drive_link)
 * [Wiki Fiuba](http://wiki.foros-fiuba.com.ar/materias:61:08) (Mucho material de todo)
 * [Link al Discord con resueltos](https://discord.gg/AhEkUES)
 * [Repo con mucho material](https://github.com/Apuntes-FIUBA/Apuntes-Electronica/tree/main/81%20-%20Matem%C3%A1tica/8102%20-%20Algebra%20II)
