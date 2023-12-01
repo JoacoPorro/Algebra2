@@ -3,6 +3,7 @@
    
 ### Drives: 
 * [General](https://drive.google.com/drive/folders/1FA6c9nN5YRvq_c1RXkpFe6LufUDW9ZxM)
+* [Todos Los Finales Recientes](https://drive.google.com/drive/u/1/folders/12lQX4_T5ysvpc7y3sJ0rFCiq1xEwD_g9)
 * [Finales Mas Viejos Resueltos](https://drive.google.com/drive/folders/1vtwsy6NnyqGG42dT7bKgDJwDi4GaF4KR)
 * [Finales Mas Recientes Resueltos](https://drive.google.com/drive/folders/1HxWdsb029ipLkGjP6I5YuJXK4F3nblms)
 
